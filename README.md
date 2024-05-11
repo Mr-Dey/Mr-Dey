@@ -1,11 +1,11 @@
-# Hi there, I'm Subhasish Dey! 👋
+# Hello there, Subhasish this side! 👋
 
-I'm a passionate Full Stack Developer. I love building innovative web applications and exploring new technologies.
+I excel as a Full Stack Developer, thriving on crafting cutting-edge web applications and delving into the latest technologies.
 
 ## 🔧 Skills & Tools
-- **Languages:** JavaScript (Node.js, React), HTML5, CSS3
-- **Backend:** Express.js, MongoDB, MySQL
-- **Frontend:** React.js, Vue.js, Bootstrap
+- **Languages:** JavaScript (Node.js, React), HTML5, CSS3, Python, Java, Php
+- **Backend:** Express.js, MongoDB, MySQL, Node.js, Php Laravel
+- **Frontend:** React.js, Vue.js, Bootstrap, Angular
 - **Tools:** Git, VS Code, Postman, Docker
 
 ## 🚀 Projects
