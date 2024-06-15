@@ -4,9 +4,9 @@ I excel as a Full Stack Developer, thriving on crafting cutting-edge web applica
 
 ## 🔧 Skills & Tools
 - **Languages:** JavaScript (Node.js, React), HTML5, CSS3, Python, Java, Php
-- **Backend:** Express.js, MongoDB, MySQL, Node.js, Php Laravel
+- **Backend:** Express.js, MongoDB, MySQL, Node.js, Php Laravel, Graphql, RestAPI
 - **Frontend:** React.js, Vue.js, Bootstrap, Angular
-- **Tools:** Git, VS Code, Postman, Docker
+- **Tools:** Git, VS Code, Postman, Docker, Kubernetes, HelmChart
 
 ## 🚀 Projects
 Here are some projects I've worked on:
